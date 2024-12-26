@@ -12,7 +12,7 @@ function App() {
         <div className="contaner py-3 px-8 w-3/4 h-24  shadow-2xl bottom-0 rounded bg-white fixed flex flex-wrap  justify-center align-baseline">
           <button
             onClick={() => setColor("red")}
-            className="outline-none m-1 w-20 bg-red-500 border rounded-full duration-200 transition-all  px-2 py-1"
+            className="outline-none m-1 w-20 bg-red-500 border rounded-full duration-500 transition-all  px-2 py-1"
           >
             Red
           </button>
